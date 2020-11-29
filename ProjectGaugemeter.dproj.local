@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/11/29 20:26:29.620,=D:\SOFTWARE\RAD Studio\PROJECTS\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 20:30:20.270,D:\SOFTWARE\RAD Studio\PROJECTS\Gaugemeter\UnitGaugemeter.fmx=D:\SOFTWARE\RAD Studio\PROJECTS\Unit1.fmx</Transaction>
+    <Transaction>2020/11/29 20:30:20.270,D:\SOFTWARE\RAD Studio\PROJECTS\Gaugemeter\UnitGaugemeter.pas=D:\SOFTWARE\RAD Studio\PROJECTS\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 20:30:26.990,D:\SOFTWARE\RAD Studio\PROJECTS\Gaugemeter\ProjectGaugemeter.dproj=D:\SOFTWARE\RAD Studio\PROJECTS\Project1.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
